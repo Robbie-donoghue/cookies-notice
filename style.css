@@ -1,0 +1,29 @@
+#cookie-notice 
+{
+    position: fixed;
+    bottom:20px;
+    right:20px;
+    background-color: salmon;
+    color:sandybrown;
+    font-family: fantasy;
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2.5px solid grey;
+    border-radius: 10px;
+}
+
+.button
+{
+    border: none;
+    font-size: 20px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+.button-accept
+{
+    background-color: forestgreen;
+}
+.button-decline
+{
+    background-color: crimson;
+}
